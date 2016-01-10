@@ -1,0 +1,23 @@
+{
+  "name": "elastislide",
+  "homepage": "https://github.com/teraponR/Elastislide",
+  "authors": [
+    "jorgepinon"
+  ],
+  "description": "Elastislide is a responsive image carousel",
+  "main": "'js/jquery.elastislide.js'",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "slider"
+  ],
+  "license": "Licensed under the MIT License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
